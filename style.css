@@ -15,7 +15,7 @@ body {
 /*TOP NAVIGATION*/
 .header {
 	height: 150px;
-	background: #C2FFD6;
+	background: #FF9999;
 }
 .welcome {
 	font-family: title_font;
@@ -51,7 +51,7 @@ body {
 /*SCROLL NAVIGATION*/
 .scroll {
 	width: 100%;
-	background: rgba(194, 255, 214, 0.6);
+	background: rgba(255, 153, 153, 0.6);
 	font-style: Helvetica;
 	display: none;
 	position: fixed;
